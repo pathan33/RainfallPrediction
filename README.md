@@ -34,7 +34,7 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * About Rainy Brain:
 ![About](githubimgs/about.png)
 * Developer:
-![Developer](githubimgs/pathan.png)
+![Developer](githubimgs/developer.png)
 * Predictor:
 ![Predictor](githubimgs/predictor.png)   
 * Result:
