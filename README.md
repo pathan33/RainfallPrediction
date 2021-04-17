@@ -49,7 +49,7 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Categorical Values like location, wind direction are handled by using Target guided encoding
 * Outliers are handled using IQR and boxplot
 * Feature Selection and was done but didnt perform well it can be seen in testing_notebook/Prediction.ipynb
-* Feature Scaling didnt give a lot of difference it also can be seen in testing_notebook/RainPrediction1.ipynb
+* Feature Scaling didnt give a lot of difference it also can be seen in testing_notebook/RainPrediction.ipynb
 * Imbalanced Dataset was handled using SMOTE
 # Model Creation:
 * Different types of models were tried like catboost, random forest, logistic regression, xgboost, support vector machines, knn, naive bayes.
