@@ -33,8 +33,6 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 ![Landing Page](githubimgs/landingpage.png)
 * About Rainy Brain:
 ![About](githubimgs/about.png)
-* Dashboard:
-![Dashboard](githubimgs/dashboard.png)
 * Developer:
 ![Developer](githubimgs/pathan.png)
 * Predictor:
